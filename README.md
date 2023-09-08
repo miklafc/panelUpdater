@@ -13,3 +13,6 @@ chmod +x panelUpdater.sh
 
 ./panelUpdater.sh
 ```
+## Using the tool
+
+Follow the instructions while running the script.
